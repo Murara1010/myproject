@@ -143,7 +143,9 @@ button.closer{
 /************FLIP IMG*****************/
 
 img.arrow{
+		margin-top: 19PX;
+		margin-left: 12px;
 		width: 30px;
 	
-	transform: scale(-1);
+	
 }
